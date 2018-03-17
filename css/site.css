@@ -1,7 +1,13 @@
 .bg-nav {
-    background-color: darkmagenta;
+    background-color: #beb9a5;
 }
 
 .navbar {
-    border-bottom: 3px solid gray;
+    border-bottom: 3px solid #292927;
+}
+
+.carousel-caption {
+    background-color: #fafbed;
+    opacity: .7;
+    color: darkmagenta;
 }
