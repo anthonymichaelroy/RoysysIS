@@ -11,3 +11,9 @@
     opacity: .7;
     color: darkmagenta;
 }
+
+.alert-extrapadding{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 3px;
+}
